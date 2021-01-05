@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">COVID-19</string>
+
+    <string name="about_me_name">Aditya Bhardwaj</string>
+    <string name="about_me_title">Android Developer</string>
+    <string name="about_me_description">Student at SRM University</string>
+    <string name="about_me_description_more">A second year Computer Science undergraduate student  at "SRM Institute of Science and Technology" with an interest in Android Dev, Web Dev and Python.</string>
+    <string name="about_me_contact_number">+917417010170</string>
+    <string name="about_me_gmail">ab2225@srmist.edu.in</string>
+    <string name="about_me_location">Noida, UP</string>
+    <string name="about_me_skill_1">Full Stack Developer</string>
+    <string name="about_me_skill_2">Android Developer</string>
+    <string name="about_me_skill_3">Competitive Programmer</string>
+    <string name="about_me_experience_1_job_title">BackEnd Developer</string>
+    <string name="about_me_experience_1_company_name">SBFC Ltd.</string>
+    <string name="about_me_experience_1_duration">Jul 2020 - Sep 2020</string>
+</resources>

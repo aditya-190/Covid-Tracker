@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="headingTextSize">16sp</dimen>
+    <dimen name="subHeadingTextSize">12sp</dimen>
+    <dimen name="numberTextSize">14sp</dimen>
+    <dimen name="increaseInNumberTextSize">12sp</dimen>
+</resources>

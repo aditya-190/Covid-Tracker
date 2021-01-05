@@ -1,0 +1,5 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/tab_icon_updates_selected" android:state_active="true" />
+    <item android:drawable="@drawable/tab_icon_updates_un_selected" android:state_active="false" />
+</selector>
